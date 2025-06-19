@@ -1,4 +1,4 @@
-# ME73MS01 Arduino Library
+# ME73MS01 Library
 
 This library enables communication with the **ME73MS01** millimeter-wave radar sensor over UART using either **HardwareSerial** or **SoftwareSerial**.
 
